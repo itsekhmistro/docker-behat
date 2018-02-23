@@ -1,5 +1,5 @@
 {
-  "name": "bergil/docker-behat",
+  "name": "itsekhmistro/docker-behat",
   "minimum-stability": "stable",
   "require": {
     "behat/behat": "3.4.3",
